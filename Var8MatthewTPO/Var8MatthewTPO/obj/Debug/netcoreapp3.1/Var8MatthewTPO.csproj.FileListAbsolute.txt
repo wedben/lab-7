@@ -1,0 +1,13 @@
+C:\Users\stud\source\repos\Var8MatthewTPO\Var8MatthewTPO\bin\Debug\netcoreapp3.1\Var8MatthewTPO.exe
+C:\Users\stud\source\repos\Var8MatthewTPO\Var8MatthewTPO\bin\Debug\netcoreapp3.1\Var8MatthewTPO.deps.json
+C:\Users\stud\source\repos\Var8MatthewTPO\Var8MatthewTPO\bin\Debug\netcoreapp3.1\Var8MatthewTPO.runtimeconfig.json
+C:\Users\stud\source\repos\Var8MatthewTPO\Var8MatthewTPO\bin\Debug\netcoreapp3.1\Var8MatthewTPO.runtimeconfig.dev.json
+C:\Users\stud\source\repos\Var8MatthewTPO\Var8MatthewTPO\bin\Debug\netcoreapp3.1\Var8MatthewTPO.dll
+C:\Users\stud\source\repos\Var8MatthewTPO\Var8MatthewTPO\bin\Debug\netcoreapp3.1\Var8MatthewTPO.pdb
+C:\Users\stud\source\repos\Var8MatthewTPO\Var8MatthewTPO\obj\Debug\netcoreapp3.1\Var8MatthewTPO.csprojAssemblyReference.cache
+C:\Users\stud\source\repos\Var8MatthewTPO\Var8MatthewTPO\obj\Debug\netcoreapp3.1\Var8MatthewTPO.AssemblyInfoInputs.cache
+C:\Users\stud\source\repos\Var8MatthewTPO\Var8MatthewTPO\obj\Debug\netcoreapp3.1\Var8MatthewTPO.AssemblyInfo.cs
+C:\Users\stud\source\repos\Var8MatthewTPO\Var8MatthewTPO\obj\Debug\netcoreapp3.1\Var8MatthewTPO.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\Var8MatthewTPO\Var8MatthewTPO\obj\Debug\netcoreapp3.1\Var8MatthewTPO.dll
+C:\Users\stud\source\repos\Var8MatthewTPO\Var8MatthewTPO\obj\Debug\netcoreapp3.1\Var8MatthewTPO.pdb
+C:\Users\stud\source\repos\Var8MatthewTPO\Var8MatthewTPO\obj\Debug\netcoreapp3.1\Var8MatthewTPO.genruntimeconfig.cache
