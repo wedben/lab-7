@@ -26,4 +26,18 @@ public class Занятие
             this.Дата = DateTime.Now;
         }
     }
+     public class Смена
+    {
+        private string _название;
+
+        public Смена(string название, DateTime? дата = null)
+        {
+            _название = название;
+            if (дата == null)
+            {
+                дата = DateTime.Now;
+            }
+            
+        }
+    }
 }
