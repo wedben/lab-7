@@ -30,3 +30,4 @@ public class Занятие
             this.Дата = DateTime.Now;
         }
     }
+}
