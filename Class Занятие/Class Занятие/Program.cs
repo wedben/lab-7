@@ -1,13 +1,17 @@
 ﻿using System;
+using ClassLibrary1;
+using ConsoleApp1;
+using Sotrudnik;
+
 
 public class Занятие
 {
     private DateTime Дата;
 
     private string Дисциплина;
-    private string Сотрудник;
-    private string Auditorium;
-    private string Var4Группа;
+    private string Sotrudnik;
+    private string ConsoleApp1;
+    private string ClassLibrary1;
     private string Пара;
     private string ВидЗанятия;
     
