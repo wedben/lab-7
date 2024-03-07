@@ -15,7 +15,7 @@ namespace ClassLibaryTPO8VAR
             {
                 дата = DateTime.Now;
             }
-            // ваша логика по работе с датой
+            
         }
     }
 }
