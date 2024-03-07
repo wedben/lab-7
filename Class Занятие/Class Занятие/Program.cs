@@ -7,7 +7,7 @@ public class Занятие
     private string Дисциплина;
     private string Сотрудник;
     private string Auditorium;
-    private string Группа;
+    private string Var4Группа;
     private string Пара;
     private string ВидЗанятия;
     
