@@ -1,0 +1,25 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+namespace trpo_lab_2_var_14
+{
+    public class var14
+    {
+        private string name = "";
+
+        public var14(string name)
+        {
+            Name = name;
+        }
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+       
+    }
+}
