@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sotrudnik
+namespace employees
 {
 
-    internal class Sotrudnik
+    internal class employees
     {   
         private string Familia { get; };
         private string Imia { get; };
