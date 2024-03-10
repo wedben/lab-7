@@ -8,19 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\cptn3mo\\.nuget\\packages\\": {}
+    "C:\\Users\\89203\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cptn3mo\\Desktop\\23\\ClassLibrary3\\ClassLibrary3.csproj",
+      "projectUniqueName": "C:\\Users\\89203\\Desktop\\гит\\ClassLibrary3\\ClassLibrary3.csproj",
       "projectName": "ClassLibrary3",
-      "projectPath": "C:\\Users\\cptn3mo\\Desktop\\23\\ClassLibrary3\\ClassLibrary3.csproj",
-      "packagesPath": "C:\\Users\\cptn3mo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cptn3mo\\Desktop\\23\\ClassLibrary3\\obj\\",
+      "projectPath": "C:\\Users\\89203\\Desktop\\гит\\ClassLibrary3\\ClassLibrary3.csproj",
+      "packagesPath": "C:\\Users\\89203\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\89203\\Desktop\\гит\\ClassLibrary3\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\cptn3mo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\89203\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
