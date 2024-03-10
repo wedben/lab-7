@@ -1,0 +1,2 @@
+C:\Лабы VisualStudio\Барило\GitHub-repozitory\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Лабы VisualStudio\Барило\GitHub-repozitory\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
