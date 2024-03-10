@@ -9,10 +9,10 @@ namespace Sotrudnik
 
     internal class Sotrudnik
     {   
-        private string Familia;
-        private string Imia;
-        private string Otchestvo;
-        private string DoljnostName;
+        private string Familia { get; };
+        private string Imia { get; };
+        private string Otchestvo { get; };
+        private string DoljnostName { get; };
 
         public Sotrudnik(string Familia, string Imia, string Otchestvo, string DoljnostName)
         {
