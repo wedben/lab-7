@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ngOriHQlVyOoKLOlSB/dyteDEBd+iO5B8nJFtwyph6BegNFBcNIabqnHc0cjuUf7zx/f6uX+WGfj50/7dl9VmQ==",
+  "dgSpecHash": "3wc9Cw2zvhE9gIV8inY5otjQ9xNnquFqavGWkAniqU8HoHn8Bm2qIKtxG+pnvPrD7e8tniT/PBntSKC8NHzcEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Тёма\\Desktop\\Новая папка (2)\\ClassLibrary3\\ClassLibrary3.csproj",
+  "projectFilePath": "C:\\Users\\Тёма\\Desktop\\Новая папка (3)\\ClassLibrary3\\ClassLibrary3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Тёма\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
     "C:\\Users\\Тёма\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
