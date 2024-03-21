@@ -1,4 +1,9 @@
-﻿namespace ClassLibrary3
+using ClassLibrary1;
+using employees;
+using ConsoleApp1;
+using Vid_Zanyatia;
+
+namespace ClassLibrary3
 {
     public class Var1Zanyatie
     {
@@ -12,7 +17,7 @@
 
         public Var1Zanyatie(DateTime dateTime, V3discipline discipline, employees sotrudnik, Auditorium auditorium, Var4Группа gruppa, var14 vidZ)
         {
-            dateTim = dateTim;
+            dateTime = dateTime;
             discipline = discipline;
             sotrudnik = sotrudnik;
             auditorium = auditorium;
