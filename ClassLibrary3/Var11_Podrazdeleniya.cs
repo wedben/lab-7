@@ -3,19 +3,21 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using employees;
+using Lab_4;
 
 namespace ClassLibrary2
 {
-    public class Var11Подразделение
+    public class Var11PodraZdelenie
     {
-        public string Название { get; }
-        public Var9Сотрудник Руководитель { get; }
-        public Var12Организация Организация { get; }
-        public Var11Подразделение(string названиеПодразделения, Var9Сотрудник руководитель, Var12Организация организация)
+        public string Nazvanie { get; }
+        public employees Rukovoditel { get; }
+        public Организация Организация { get; }
+        public Var11PodraZdelenie(string Nazvanie, employees Rukovoditel, Организация Организация)
         {
-            Название = названиеПодразделения;
-            Организация = организация;
-            Руководитель = руководитель;
+            Nazvanie = Nazvanie;
+            employees = Rukovoditel;
+            Организация = Организация;
         }
     }
 }
