@@ -9,7 +9,7 @@
 
         private DateTime dateTime;
         private Var11_Podrazdeleniya;
-        private Var09_employees;
+        private Var09 employees;
         private Audiutorium;
         private Class1Группа;
         private Vid_Zanyatia;
