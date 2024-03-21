@@ -12,7 +12,7 @@ namespace ClassLibrary1
         public string Имя { get; }
         public string Отчество { get; }
         public DateTime ДатаРождения { get; }
-        public Var4Группа Группа { get; }
+        public Var4Группа { get; }
         public Var5Студент(string фамилия, string имя, string отчество, Var4Группа группа, DateTime датаРождения)
         {
             Фамилия = фамилия;
