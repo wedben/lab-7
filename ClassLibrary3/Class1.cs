@@ -11,8 +11,6 @@
         private Var11 discipline;
         private Var09 employees;
         private Var02 theAudience;
-        private ClassStudent;
-        private ClassDisziplina;
         private Var04 group;
         private Var07 couple;
         private Var14 classes;
