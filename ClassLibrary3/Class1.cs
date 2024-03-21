@@ -8,12 +8,14 @@
         }
 
         private DateTime dateTime;
-        private Var11 discipline;
-        private Var09 employees;
-        private Var02 theAudience;
-        private Var04 group;
-        private Var07 couple;
-        private Var14 classes;
+        private Var11_Podrazdeleniya;
+        private Var09_employees;
+        private Audiutorium;
+        private Class1Группа;
+        private Vid_Zanyatia;
+        private ClassDate8Variant;
+        private ClassDisziplina;
+        
 
         public string datetime
         {
