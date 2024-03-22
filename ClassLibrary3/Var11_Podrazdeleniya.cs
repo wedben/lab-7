@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using employees;
-using Lab_4
+using Lab_4;
 
 namespace ClassLibrary2
 {
