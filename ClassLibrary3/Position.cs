@@ -11,9 +11,9 @@ namespace Dolgnost
     {
         private string nazvanie;
         private double oklad;
-        private string Var11PodraZdelenie Var11PodraZdelenie;
+        private Var11PodraZdelenie Var11PodraZdelenie;
 
-        public Position(string nazvanie, double oklad, string Var11PodraZdelenie Var11PodraZdelenie)
+        public Position(string nazvanie, double oklad, Var11PodraZdelenie Var11PodraZdelenie)
         {
             this.nazvanie = nazvanie;
             this.oklad = oklad;
