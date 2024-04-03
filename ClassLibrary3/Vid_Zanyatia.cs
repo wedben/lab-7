@@ -9,7 +9,7 @@ global using global::System.Threading.Tasks;
 
 namespace Vid_Zanyatia
 {
-    public class Vid_Zanyatia
+    public class Vid
     {
         public class var14
         {
