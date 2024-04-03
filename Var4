@@ -15,7 +15,7 @@ namespace ClassLibrary1
         public int GosPost2 { get; }
         public Employees  employees2 { get; }
         public Var6Specialization Specialization2 { get; }
-        public Var4(string названиеГруппы, string сокращение, int численность, int годПоступления, Var9Сотрудник классныйРуководитель, Var6Специальность специальность)
+        public Var4(string Nazvanie, string Sokr, int Chisl, int GosPost, Employees employees, Var6Specialization Specialization)
         {
             Nazvanie2 = Nazvanie;
             Sokr2 = Sokr;
