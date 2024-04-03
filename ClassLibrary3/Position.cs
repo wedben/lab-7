@@ -8,27 +8,27 @@ namespace ТРПО_Лаба_2_вариант_10__должность_
 {
     class Position
     {
-        private string title;
-        private double salary;
+        private string nazvanie;
+        private double oklad;
         private string departmentLink;
 
-        public Position(string title, double salary, string departmentLink)
+        public Position(string nazvanie, double oklad, string departmentLink)
         {
-            this.title = title;
-            this.salary = salary;
+            this.nazvanie = nazvanie;
+            this.oklad = oklad;
             this.departmentLink = departmentLink;
         }
 
-        public string Title
+        public string Nazvanie
         {
-            get { return title; }
-            set { title = value; }
+            get { return nazvanie; }
+            set { nazvanie = value; }
         }
 
-        public double Salary
+        public double Oklad
         {
-            get { return salary; }
-            set { salary = value; }
+            get { return oklad; }
+            set { oklad = value; }
         }
 
         public string DepartmentLink
