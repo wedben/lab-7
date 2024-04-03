@@ -12,12 +12,12 @@ namespace ClassLibrary2
     {
         public string Nazvanie { get; }
         public employees Rukovoditel { get; }
-        public Организация Организация { get; }
-        public Var11PodraZdelenie(string Nazvanie, employees Rukovoditel, Организация Организация)
+        public Organizaca Organizaca { get; }
+        public Var11PodraZdelenie(string Nazvanie, employees Rukovoditel, Organizaca Organizaca)
         {
             Nazvanie = Nazvanie;
             employees = Rukovoditel;
-            Организация = Организация;
+            Organizaca = Organizaca;
         }
     }
 }
