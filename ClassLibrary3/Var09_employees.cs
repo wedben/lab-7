@@ -14,12 +14,12 @@ namespace GFD
         private string Otchestvo { get; };
         private string position { get; };
 
-        public employees(string Familia, string Imia, string Otchestvo, string DoljnostName)
+        public employees(string Familia, string Imia, string Otchestvo, Position position)
         {
             this.Familia = Familia;
             this.Imia = Imia;
             this.Otchestvo = Otchestvo;
-            this.DoljnostName = DoljnostName;
+            this.Position = position;
         }
 
     }
