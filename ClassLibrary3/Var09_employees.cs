@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace employees
+namespace GFD
 {
 
     internal class employees
@@ -12,9 +12,9 @@ namespace employees
         private string Familia { get; };
         private string Imia { get; };
         private string Otchestvo { get; };
-        private string DoljnostName { get; };
+        private string position { get; };
 
-        public Sotrudnik(string Familia, string Imia, string Otchestvo, string DoljnostName)
+        public employees(string Familia, string Imia, string Otchestvo, string DoljnostName)
         {
             this.Familia = Familia;
             this.Imia = Imia;
