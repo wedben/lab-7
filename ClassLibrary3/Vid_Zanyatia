@@ -1,3 +1,7 @@
+using system;
+using ClassLibrary1;
+using ConsoleApp1;
+
 namespace Vid_Zanyatia
 {
         public class var14
