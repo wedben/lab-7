@@ -14,8 +14,8 @@ namespace Student5var
         public string Otchestvo2 { get; }
         public DateTime Datarozdeniya2 { get; }
 
-        public Var4Группа gruppa2 { get; }
-        public Var5(string Familia, string Imya, string Otchestvo, Var4Группа gruppa, DateTime Datarozdeniya)
+        public Var4 gruppa2 { get; }
+        public Var5(string Familia, string Imya, string Otchestvo, Var4 gruppa, DateTime Datarozdeniya)
         {
             Familia2 = Familia;
             Imya2 = Imya;
