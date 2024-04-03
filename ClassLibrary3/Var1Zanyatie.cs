@@ -9,13 +9,13 @@ namespace ClassLibrary3
     {
         public DateTime dateTime2 { get; }
         public V3discipline discipline2 { get; }
-        public employees employees2 { get; }
+        public Employees employees2 { get; }
         public Auditorium2 auditorium2 { get; }
         public Var4Группа gruppa2 { get; }
         //public Var7 { get; }
         public Vid vidZ2 { get; }
 
-        public Var1Zanyatie(DateTime dateTime, V3discipline discipline, employees sotrudnik, Auditorium2 auditorium, Var4Группа gruppa, Vid vidZ)
+        public Var1Zanyatie(DateTime dateTime, V3discipline discipline, Employees sotrudnik, Auditorium2 auditorium, Var4Группа gruppa, Vid vidZ)
         {
             dateTime2 = dateTime;
             discipline2 = discipline;
@@ -26,4 +26,3 @@ namespace ClassLibrary3
         }
     }
 }
-
