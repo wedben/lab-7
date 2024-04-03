@@ -11,13 +11,13 @@ namespace Dolgnost
     {
         private string nazvanie;
         private double oklad;
-        private Var11PodraZdelenie Var11PodraZdelenie;
+        private Var11PodraZdelenie Var11PodraZdelenie2;
 
-        public Position(string nazvanie, double oklad, Var11PodraZdelenie Var11PodraZdelenie)
+        public Position(string nazvanie, double oklad, Var11PodraZdelenie Var11PodraZdelenie2)
         {
             this.nazvanie = nazvanie;
             this.oklad = oklad;
-            this.Var11PodraZdelenie = Var11PodraZdelenie;
+            this.Var11PodraZdelenie2 = Var11PodraZdelenie2;
         }
 
         public string Nazvanie
@@ -32,7 +32,7 @@ namespace Dolgnost
             set { oklad = value; }
         }
 
-        public string var11PodraZdelenie
+        public string Var11PodraZdelenie
         {
             get { return Var11PodraZdelenie; }
             set { Var11PodraZdelenie = value; }
