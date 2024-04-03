@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ClassLibrary1
 {
 
-    public class Var4Группа
+    public class Var4
     {
         public string Название { get; }
         public string Сокращение { get; }
