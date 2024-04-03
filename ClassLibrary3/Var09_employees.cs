@@ -1,25 +1,26 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Dolgnost;
 
 namespace GFD
 {
 
-    internal class employees
+    public class Employees
     {
-        private string Familia { get; };
-        private string Imia { get; };
-        private string Otchestvo { get; };
-        private string position { get; };
+        public string Familia { get; }
+        public string Imia { get; }
+        public string Otchestvo { get; }
+        public Position position { get; }
 
-        public employees(string Familia, string Imia, string Otchestvo, Position post)
+        public Employees(string Familia, string Imia, string Otchestvo, Position post)
         {
             this.Familia = Familia;
             this.Imia = Imia;
             this.Otchestvo = Otchestvo;
-            this.Position = post;
+            this.position = post;
         }
 
     }
