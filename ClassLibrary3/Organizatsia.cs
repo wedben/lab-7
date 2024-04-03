@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 namespace Lab_4
 {
     // вариант 12
-    internal class Организация
+    public class Organizaca
     {
         private string Nazvanie;
         private string Ur_adress;
         private string Fakt_adress;
         private string Rukovoditel;
 
-        public Организация(string Nazvanie, string Ur_adress, string Fakt_adress, string Rukovoditel)
+        public Organizaca(string Nazvanie, string Ur_adress, string Fakt_adress, string Rukovoditel)
         {
             this.Nazvanie = Nazvanie;
             this.Ur_adress = Ur_adress;
