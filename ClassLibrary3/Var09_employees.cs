@@ -8,7 +8,7 @@ namespace GFD
 {
 
     internal class employees
-    {   
+    {
         private string Familia { get; };
         private string Imia { get; };
         private string Otchestvo { get; };
