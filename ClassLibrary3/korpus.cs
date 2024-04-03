@@ -10,10 +10,10 @@ namespace korpus
 {
     public class Lol
     {
-        public string Nazvanie(get; )
-    public string Adrise(get; )
-    public Employees comendant(get;)
-    public Organizaca Organizaca2(get; )
+        public string Nazvanie{ get; }
+    public string Adrise{ get; }
+    public Employees comendant{ get; }
+    public Organizaca Organizaca2{ get; }
 
   public Lol(string Naz2, string Adr2, Employees comm2, Organizaca organizaca)
         {
