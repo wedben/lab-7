@@ -9,19 +9,19 @@ namespace Student5var
 {
     public class Var5
     {
-        public string Familia { get; }
-        public string Imya { get; }
-        public string Otchestvo { get; }
-        public DateTime Datarozdeniya { get; }
+        public string Familia2 { get; }
+        public string Imya2 { get; }
+        public string Otchestvo2 { get; }
+        public DateTime Datarozdeniya2 { get; }
 
-        public Var4Группа gruppa { get; }
+        public Var4Группа gruppa2 { get; }
         public Var5(string Familia, string Imya, string Otchestvo, Var4Группа gruppa, DateTime Datarozdeniya)
         {
-            Familia = Familia;
-            Imya = Imya;
-            Otchestvo = Otchestvo;
-            Datarozdeniya = Datarozdeniya;
-            gruppa = gruppa;
+            Familia2 = Familia;
+            Imya2 = Imya;
+            Otchestvo2 = Otchestvo;
+            Datarozdeniya2 = Datarozdeniya;
+            gruppa2 = gruppa;
         }
     }
 }
