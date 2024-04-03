@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Lab_4;
+using GFD;
+
+namespace korpus
+{
+    public class Lol
+    {
+        public string Nazvanie(get; )
+    public string Adrise(get; )
+    public Employees comendant(get;)
+    public Organizaca Organizaca2(get; )
+
+  public Lol(string Naz2, string Adr2, Employees comm2, Organizaca organizaca)
+        {
+            Nazvanie = Naz2;
+            Adrise = Adr2;
+            comendant = comm2;
+            Organizaca2 = organizaca;
+        }
+    }
+}
