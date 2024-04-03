@@ -7,7 +7,7 @@ namespace ClassLibrary3
 {
     public class Var1Zanyatie
     {
-        public DateTime dateTime { get; }
+        public DateTime dateTime2 { get; }
         public V3discipline discipline2 { get; }
         public employees employees2 { get; }
         public Auditorium2 auditorium2 { get; }
@@ -17,7 +17,7 @@ namespace ClassLibrary3
 
         public Var1Zanyatie(DateTime dateTime, V3discipline discipline, employees sotrudnik, Auditorium2 auditorium, Var4Группа gruppa, Vid vidZ)
         {
-            dateTime = dateTime;
+            dateTime2 = dateTime;
             discipline2 = discipline;
             employees2 = sotrudnik;
             auditorium2 = auditorium;
