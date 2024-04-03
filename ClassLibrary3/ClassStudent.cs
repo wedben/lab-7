@@ -3,23 +3,24 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Var4Группа;
 
-namespace ClassLibrary1
+namespace Student5var
 {
-    public class Var5Студент
+    public class Var5
     {
-        public string Фамилия { get; }
-        public string Имя { get; }
-        public string Отчество { get; }
-        public DateTime ДатаРождения { get; }
+        public string Familia { get; }
+        public string Imya { get; }
+        public string Otchestvo { get; }
+        public DateTime Datarozdeniya { get; }
         public Var4Группа { get; }
-        public Var5Студент(string фамилия, string имя, string отчество, Var4Группа группа, DateTime датаРождения)
+        public Var5(string Familia, string Imya, string Otchestvo, Var4Группа группа, DateTime Datarozdeniya)
         {
-            Фамилия = фамилия;
-            Имя = имя;
-            Отчество = отчество;
-            ДатаРождения = датаРождения;
-            Группа = группа;
+            Familia = Familia;
+            Imya = Imya;
+            Otchestvo = Otchestvo;
+            Datarozdeniya = Datarozdeniya;
+            Var4Группа = Var4Группа;
         }
     }
 }
