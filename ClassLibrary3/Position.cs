@@ -7,7 +7,7 @@ using ClassLibrary2;
 
 namespace Dolgnost
 {
-    class Position
+    public class Position
     {
         private string nazvanie;
         private double oklad;
