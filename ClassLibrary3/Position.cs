@@ -3,20 +3,21 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ClassLibrary2;
 
-namespace ТРПО_Лаба_2_вариант_10__должность_
+namespace Dolgnost
 {
     class Position
     {
         private string nazvanie;
         private double oklad;
-        private string departmentLink;
+        private string Var11PodraZdelenie Var11PodraZdelenie;
 
-        public Position(string nazvanie, double oklad, string departmentLink)
+        public Position(string nazvanie, double oklad, string Var11PodraZdelenie Var11PodraZdelenie)
         {
             this.nazvanie = nazvanie;
             this.oklad = oklad;
-            this.departmentLink = departmentLink;
+            this.Var11PodraZdelenie = Var11PodraZdelenie;
         }
 
         public string Nazvanie
@@ -31,10 +32,10 @@ namespace ТРПО_Лаба_2_вариант_10__должность_
             set { oklad = value; }
         }
 
-        public string DepartmentLink
+        public string var11PodraZdelenie
         {
-            get { return departmentLink; }
-            set { departmentLink = value; }
+            get { return Var11PodraZdelenie; }
+            set { Var11PodraZdelenie = value; }
         }
     }
 }
