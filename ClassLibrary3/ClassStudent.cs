@@ -14,14 +14,14 @@ namespace Student5var
         public string Otchestvo { get; }
         public DateTime Datarozdeniya { get; }
 
-        public Var4Группа группа { get; }
-        public Var5(string Familia, string Imya, string Otchestvo, Var4Группа группа, DateTime Datarozdeniya)
+        public Var4Группа gruppa { get; }
+        public Var5(string Familia, string Imya, string Otchestvo, Var4Группа gruppa, DateTime Datarozdeniya)
         {
             Familia = Familia;
             Imya = Imya;
             Otchestvo = Otchestvo;
             Datarozdeniya = Datarozdeniya;
-            группа = группа;
+            gruppa = gruppa;
         }
     }
 }
