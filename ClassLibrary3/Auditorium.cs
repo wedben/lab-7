@@ -1,4 +1,4 @@
-namespace Auditorium2
+namespace Auditorium
 {
     public class Auditorium2
     {
