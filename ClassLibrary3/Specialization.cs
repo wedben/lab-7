@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
 namespace Specialization
 {
     public class Var6Specialization
@@ -17,5 +16,4 @@ namespace Specialization
             this.Reduction = Reduction;
         }
     }
-
 }
