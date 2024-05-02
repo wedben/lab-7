@@ -1,13 +1,10 @@
 ﻿using System;
 
-
-
 namespace ClassLibaryTPO8VAR
 {
     public class Smena
     {
         private string _nazvanie;
-
         public Smena(string nazvanie, DateTime? date = null)
         {
             _nazvanie = nazvanie;
@@ -15,7 +12,6 @@ namespace ClassLibaryTPO8VAR
             {
                 date = DateTime.Now;
             }
-            
         }
     }
 }
